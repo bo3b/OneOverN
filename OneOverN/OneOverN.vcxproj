@@ -206,6 +206,7 @@
     <None Include="res\OneOverN.rc2" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\harmonic_series.JPG" />
     <Image Include="res\OneOverN.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
