@@ -59,5 +59,8 @@
     <Image Include="..\harmonic_series.JPG">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="..\harmonic_series.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
